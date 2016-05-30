@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroLator</string>
+    <string name="calc">Calculate</string>
+    <string name="number">Number</string>
+    <string name="error">Check your input</string>
+</resources>

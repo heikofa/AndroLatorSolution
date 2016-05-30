@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroLator</string>
+    <string name="calc">Berechnen</string>
+    <string name="number">Zahl</string>
+    <string name="error">Überprüfen Sie Ihre Eingabe</string>
+</resources>
